@@ -1,4 +1,4 @@
-FROM hikarushindo/alpine:3.5
+FROM hikarushindo/alpine:3.13
 
 MAINTAINER Pascal Nitsche
 
